@@ -14,6 +14,8 @@ mix deps.get
 iex -S mix
 ```
 
+Run `direnv allow` to load env variables
+
 ## Examples
 
 ### Create record
